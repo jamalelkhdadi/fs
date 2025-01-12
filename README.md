@@ -1,5 +1,3 @@
-
-```markdown
 # File Size Checker (fs)
 
 `fs` is a command-line tool for calculating the size of files and directories. It provides options to check the size of individual files or calculate the total size of a directory, including all its subdirectories and files.
@@ -105,11 +103,3 @@ Total size: 1.23 GB
 ## License
 
 This program is released under the MIT License. See the LICENSE file for more information.
-```
-
-### Key Points in the README:
-- **Installation**: Instructions for compiling the program.
-- **Usage**: Detailed explanations of the commands and options.
-- **Examples**: Sample commands and output to guide the user.
-- **License**: Mention of the program’s licensing, assuming it’s under the MIT License.
-
